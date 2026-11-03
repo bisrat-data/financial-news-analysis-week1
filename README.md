@@ -111,4 +111,4 @@ The project explores:
 - Most mentioned stocks
 ## Author
 
-Netsanet
+Bisrat
